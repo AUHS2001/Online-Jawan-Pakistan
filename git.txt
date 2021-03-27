@@ -1,0 +1,5 @@
+git-scm.com
+
+git init
+git status
+git add -A
